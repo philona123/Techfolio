@@ -45,12 +45,14 @@ function Home2() {
                   Modern Javascript Library and Frameworks
                 </b>
               </i>
-              Currently, I am Working as an Associate Software Engineer - Trainee 
-              at <b className="purple">KeyValue Software Systems</b>
               &nbsp; like
               <i>
                 <b className="purple"> React.js and Next.js</b>
               </i>
+              <br/>
+              <br/>
+              Currently, I am Working as an Associate Software Engineer - Trainee 
+              at <b className="purple">KeyValue Software Systems</b>
             </p>
           </Col>
           <Col md={4} className="myAvtar">
