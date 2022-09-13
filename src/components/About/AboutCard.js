@@ -11,7 +11,7 @@ function AboutCard() {
             <li className="about-activity">
               <ImPointRight /> BTech in IT - Cochin University of Science and Technology
               <br/>Studied core subjects like DBMS, Computer Networks, Data Structures and Algorithms, Operating Systems, etc.
-              <br/>CGPA : 9.45
+              <br/>CGPA : 9.45 (Secured University 2nd Rank)
             </li>
             <li className="about-activity">
               <br/>
